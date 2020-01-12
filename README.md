@@ -1,4 +1,5 @@
-# Scraper_things
+![Scraper Things](https://s3.amazonaws.com/stranger-things/scraper-things.png)
+
 This is a repository where I prove different scraping methods.
 
 The objective will be to use different tools and identify the differences between those. All in Python language and maybe will be one in R or js (if it is necessary). 
