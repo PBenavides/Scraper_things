@@ -1,0 +1,1 @@
+Scrapy is a framework to scrap and parse websites. It allows you to do different things in short period of time and also, uses XPath sintax to reach certain parts of the website.
